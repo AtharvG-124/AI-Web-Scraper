@@ -1,5 +1,9 @@
 # AI-Web-Scraper
 
+Summary:
+
+An AI-driven web scraping application built with Python that extracts and organizes website content based on user-defined prompts. Integrated tools like Selenium, BeautifulSoup, and LangChain to enable dynamic content parsing and a user-friendly interface for structured data retrieval. To run this project locally, Ollama needs to be downloaded locally (version/model llama3.2).
+
 to run the project: streamlit run main.py
 
 Files:
